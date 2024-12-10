@@ -49,13 +49,15 @@ _Sep. 2018 – Oct. 2022_
 
 ## Experience
 
-**Freelance Data Analyst/Scientist**  
-_Various Clients, Remote_  
+### **Freelance Data Analyst/Scientist**  
 _Aug. 2023 – Present_  
-- Developed end-to-end data science solutions, including data preprocessing, feature engineering, model building, and deployment.
-- Conducted exploratory data analysis (EDA), identifying patterns, correlations, and trends from large datasets.
-- Built machine learning models for sentiment analysis, customer segmentation, and trend forecasting.
-- Utilized libraries including Scikit-Learn, TensorFlow, and XGBoost for model development and deployment.
+- Developed and deployed deep learning models for medical image classification and segmentation using **ResNet**, **U-Net**, and **Vision Transformers**.
+- Applied **transfer learning** techniques to improve model accuracy on X-ray and medical imaging datasets, boosting performance significantly.
+- Built end-to-end machine learning pipelines, handling everything from data preprocessing to model training and evaluation.
+  
+**Key Achievements:**
+- Improved model accuracy by 10% through **hyperparameter tuning** and transfer learning techniques.
+- Successfully deployed deep learning models for real-time **medical image classification**, enabling quicker and more accurate diagnostics.
 
 ---
 
