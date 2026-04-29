@@ -102,7 +102,7 @@ With **39 verified certifications** from IBM, DeepLearning.AI, Stanford, Google,
 <br/>
 
 <!-- Metrics Card -->
-![Metrics](github-metrics.svg)
+![Metrics](https://gist.githubusercontent.com/hafiz-m-awais/ac7cc3e50b5e0016ecb6cb1877507bad/raw/github-metrics.svg)
 
 <br/>
 
