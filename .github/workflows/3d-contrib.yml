@@ -1,0 +1,25 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: hafiz-m-awais
+
+      - name: Commit and push
+        run: |
+          git config --global user.email "hafiz.awais.ds@gmail.com"
+          git config --global user.name "hafiz-m-awais"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update 3D contribution graph"
+          git push
