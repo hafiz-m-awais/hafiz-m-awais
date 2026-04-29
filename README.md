@@ -1,22 +1,22 @@
+<!-- Banner -->
 <div align="center">
+  <img src="banner.svg" alt="Hafiz Muhammad Awais – Data Scientist & AI Engineer" width="100%"/>
+</div>
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0056D2&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Hafiz+Muhammad+Awais;Data+Scientist+%26+AI+Engineer;Building+Real-World+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Open+to+Exciting+Opportunities+🚀)](https://github.com/hafiz-m-awais)
-
-<br/>
+<div align="center">
 
 <!-- Status Badges -->
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logo=briefcase&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=hafiz-m-awais&style=flat-square&color=0056D2&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/hafiz-m-awais?style=flat-square&color=181717&logo=github&label=Followers)
 
-<br/>
-
 <!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-m-awais)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hafiz.awais.ds@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hafiz-m-awais)
 
+<!-- Visitor Map -->
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=Kaui8hreZ5yNGsMjH-_WodjrrPw5Dksklf9m8kJCEiw&cl=ffffff)](https://clustrmaps.com/site/1c9vu)
 </div>
 
 ---
@@ -40,7 +40,7 @@ With **39 verified certifications** from IBM, DeepLearning.AI, Stanford, Google,
 | 🧠 **InsightForge AI** | AI-powered data analysis and automated insight generation platform | Python · LLMs · Pandas | [View →](https://github.com/hafiz-m-awais/InsightForge-AI) |
 | 📚 **NeuroTutor** | Personalised AI learning assistant that adapts to your pace | RAG · LangChain · NLP | [View →](https://github.com/hafiz-m-awais/NeuroTutor) |
 | 🇵🇰 **RAG Chatbot Pakistan** | Context-aware chatbot built on Pakistani data using RAG pipelines | RAG · Vector DB · LLMs | [View →](https://github.com/hafiz-m-awais/RAG-Chatbot-Pakistan) |
-| 🏥 **Diabetic Retinopathy Detection** | Deep learning model for early detection of diabetic retinopathy from retinal images | TensorFlow · CNN · OpenCV | [View →](https://github.com/hafiz-m-awais/Diabetic-Retinopathy-Detection) |
+| 🏥 **Diabetic Retinopathy Detection** | Deep learning model for early detection from retinal images | TensorFlow · CNN · OpenCV | [View →](https://github.com/hafiz-m-awais/Diabetic-Retinopathy-Detection) |
 
 </div>
 
@@ -82,20 +82,35 @@ With **39 verified certifications** from IBM, DeepLearning.AI, Stanford, Google,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafiz-m-awais&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-m-awais&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=hafiz-m-awais&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-m-awais&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz-m-awais&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz-m-awais&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<!-- Contribution Snake — enable via GitHub Actions (see pinned gist) -->
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafiz-m-awais&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hafiz-m-awais)
+
+<br/>
+
+<!-- 3D Contribution Graph -->
+![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+
+<br/>
+
+<!-- Metrics Card -->
+![Metrics](github-metrics.svg)
+
+<br/>
+
+<!-- Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hafiz-m-awais/hafiz-m-awais/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
