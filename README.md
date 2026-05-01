@@ -219,7 +219,7 @@ I'm open to collaborating on AI research, agentic systems, and applied ML — or
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizmawais)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hafiz.awais.ds@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hafiz-m-awais)
-
+[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923209510722)
 <br/>
 
 *⭐ If you find my work useful, consider starring my repositories — it helps more than you'd think.*
