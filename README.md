@@ -32,10 +32,10 @@ With **39 verified certifications** from IBM, DeepLearning.AI, Stanford, Google,
 ## 📄 Research & Publications
 
 <div align="center">
-
+  
 | Title | Journal | Year | Links |
 |---|---|---|---|
-| **Automated Diabetic Retinopathy Grading Using EfficientNetV2-S on APTOS 2019** | IEEE Access | 2025 | [Paper →](https://github.com/hafiz-m-awais/Diabetic-Retinopathy-Detection) &nbsp;·&nbsp; [Live Demo →](http://dr-detection-frontend-858758523999.s3-website-us-east-1.amazonaws.com/) |
+| **Improving Inference Time in Diabetic Retinopathy — Recent Trends and Future Directions** | IEEE Access | 2025 | [Paper →](https://ieeexplore.ieee.org/document/11153952/) &nbsp;·&nbsp; [Live Demo →](http://dr-detection-frontend-858758523999.s3-website-us-east-1.amazonaws.com/) |
 
 </div>
 
